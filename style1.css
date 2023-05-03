@@ -1,0 +1,46 @@
+body{
+    background-image: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   min-height: 100vh;
+   background-blend-mode: multiply;
+   background-color: rgba(253, 251, 251, 0.5);
+   overflow: hidden;
+ }
+ .logo img {
+    width: 10% ;
+     padding: 25px;
+     position: fixed;
+     top : 0;
+     left : 0;
+     height: 100px;
+     bottom:75px;
+
+ }
+div{
+    padding: 30px;
+    color:rgb(250, 244, 244);
+    font-size: 18px;
+    width: 35%;
+    height: 25vh;
+    bottom : 200px;
+}
+#id1
+{
+    padding:20px;
+    width:400px;
+    background-color:#f5efef;
+     border-style: 1px solid black;
+}
+#id2
+{
+    padding:20px;
+    width:400px;
+    background-color:#f1e9e9;
+     border-style: 1px solid black;
+}
+#sign
+{
+    bottom: 100px;
+}
+

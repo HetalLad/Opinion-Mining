@@ -1,0 +1,35 @@
+body{
+    background-image: url(bg4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   min-height: 100vh;
+   background-blend-mode: multiply;
+   background-color: rgba(253, 251, 251, 0.5);
+   overflow: hidden;
+ }
+ .logo img {
+    width: 10% ;
+     padding: 25px;
+     position: fixed;
+     top : 0;
+     left : 0;
+     height: 100px;
+    
+
+ }
+
+
+#head
+{
+    font-size: 45px;
+    color: rgba(10, 2, 58, 0.92);
+    text-align: center;
+    width: auto;
+}
+.a
+{
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
